@@ -23,7 +23,8 @@ namespace ComicBookGallery.Data
                     new Artist() { Name = "Edgar Delgado", Role = "Colors" },
                     new Artist() { Name = "Chris Eliopoulos", Role = "Letters" },
                 },
-                Favorite = false
+                Favorite = false,
+                //id = 1
             },
             new ComicBook()
             {
@@ -38,7 +39,8 @@ namespace ComicBookGallery.Data
                     new Artist() { Name = "Muntsa Vicente", Role = "Colors" },
                     new Artist() { Name = "Joe Caramagna", Role = "Letters" }
                 },
-                Favorite = false
+                Favorite = false,
+                //id = 2
             },
             new ComicBook()
             {
@@ -52,7 +54,8 @@ namespace ComicBookGallery.Data
                     new Artist() { Name = "Jeff Smith", Role = "Inks" },
                     new Artist() { Name = "Jeff Smith", Role = "Letters" }
                 },
-                Favorite = false
+                Favorite = false,
+                //id = 3
             }
         };
 
